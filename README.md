@@ -1,6 +1,6 @@
 # PoliFrameQA — Benchmark Dataset
 
-Dataset release for the paper **"Can RAG-Based QA Stay Neutral? Selective Amplification of Informational Bias over Politically Framed Sources"** by Eason Lai, Xiandong Zou, Yujia Hu, Wei Gao, Michael Sejr Schlichtkrull, and Rui Cao, accepted to the main conference of EACL 2027.
+Dataset release for the paper **"Can RAG-Based QA Stay Neutral? Selective Amplification of Informational Bias over Politically Framed Sources"** by Eason Lai, Xiandong Zou, Yujia Hu, Michael Sejr Schlichtkrull, Wei Gao, and Rui Cao, accepted to the main conference of EACL 2027.
 
 PoliFrameQA is a fact-level benchmark for measuring whether retrieval-augmented QA systems inherit and selectively amplify **informational bias** — information conveyed as tangential, speculative, or as background to the main event in ways that sway readers' opinions towards the entities involved (Fan et al., 2019), as opposed to *lexical* bias in word choice. A fact labeled biased is **not thereby false**: the label concerns selective presentation, not factual accuracy, and *center* is used as a relative media-bias category, not as a synonym for neutrality.
 
